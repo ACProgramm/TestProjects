@@ -1,0 +1,5 @@
+
+{
+    "Timeout": 2000,
+    "TimeoutPhrase": "Hello from JSON config!"
+}
